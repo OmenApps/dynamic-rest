@@ -1,4 +1,4 @@
 Django>=1.8,<2.3
-djangorestframework>=3.1.0,<3.9.4
+djangorestframework>=3.1.0,<3.9.5
 inflection==0.3.1
 requests
