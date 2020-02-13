@@ -4,8 +4,9 @@ import inspect
 import os
 
 import inflection
+import six
+
 from django.db import models
-from django.utils import six
 from django.utils.functional import cached_property
 from rest_framework import __version__ as drf_version
 from rest_framework import exceptions, fields, serializers
